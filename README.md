@@ -1,5 +1,9 @@
 # tasks-app
 
+App web desenvolvido em Vue, com o intuito de criar tarefas do cotidiano de forma bem fácil e simples
+
+Para rodar e buildar o projeto, siga os comandos abaixo:
+
 ## Project setup
 ```
 npm install
